@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently learning - Javascript & Express Js<br>Ask me about - Ui/Ux<br>Reach Me - shashankraj1010@gmail.com
 
 
